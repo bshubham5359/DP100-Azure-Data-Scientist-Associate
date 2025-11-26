@@ -2,7 +2,6 @@
  Manage data ingestion and preparation, model training and deployment, and machine learning solution monitoring with Python, Azure Machine Learning and MLflow.
 
 ---
----
 
 # 1. Design a machine learning solution
 
@@ -106,7 +105,6 @@ Monitoring is beneficial in any MLOps environment.
 
 > Two tools used in MLOps projects are **Azure DevOps** and **GitHub (Actions)**. 
 
----
 ---
 
 # 2. Explore and configure the Azure Machine Learning workspace
